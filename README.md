@@ -2,7 +2,6 @@
 Hi!
 i'm Sxlitude. I love making useful discord bots in javascript! But currently, i'm focusing on my antinuke repo which you can use by clicking [here!](https://github.com/sxlitude/antinuke) Also, you can contact me:
 - *Discord:* Sxlitude#8885
-- *Replit:* [Sxlitudee](https://replit.com/@Sxlitudee)
 ### GitHub Stats
 ![Sxlitude's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxlitude&show_icons=true&theme=radical)
 
